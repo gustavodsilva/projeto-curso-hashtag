@@ -1,0 +1,9 @@
+https://elegant-rabanadas-4b0397.netlify.app/
+comandos git para iniciar:
+
+1. git status -> para verificar as atualizações
+2. git add . -> para considerar suas alterações
+3. git commit -m "" -> para adicionar um nome para atualização que deseja subir
+4. git pull -> para atualizar o projeto
+5. git pull origin main -> para validar se o seu projeto foi atualizado com sucesso
+6. git push origin main -> para enviar a atualização ao servidor do github
