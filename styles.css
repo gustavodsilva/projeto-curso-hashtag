@@ -111,3 +111,51 @@ text-decoration: none;
 .blog-descriçãopost {
     font-size: 17px;
 }
+
+/* Seção Como Ajudar */
+
+.comoajudar-realce {
+    font-weight: 600;
+}
+
+.comoajudar-lista,
+.comoajudar-paragrafo {
+    font-size: 19px;
+}
+
+.comoajudar-lista a,
+.comoajudar-paragrafo a {
+    font-weight: 600;
+    color: #008ff7;
+}
+
+.comoajudar-paragrafo b{
+    font-weight: 600;
+}
+
+/* Seção Mini Curso */
+
+.minicurso-realce {
+    font-weight: 600;
+}
+
+/* Seção Rodapé */
+
+.rodape-titulo {
+    font-weight: 600;
+    font-size: 22px;
+}
+
+.rodape-subtitulo {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.rodape-seg-subtitulo {
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.rodape-link {
+    color: #1a77a4;
+}
